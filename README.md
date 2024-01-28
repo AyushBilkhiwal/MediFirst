@@ -72,9 +72,9 @@ cd MediFirst
 ```
 
 
-## Screenshots
+## WorkFlow/Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](screenshots/photo_2024-01-28_14-06-17.jpg)
 ![Screenshot 2](screenshots/screenshot2.png)
 
 
