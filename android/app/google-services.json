@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100731098453",
+    "project_id": "loginpage-b65af",
+    "storage_bucket": "loginpage-b65af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100731098453:android:280f2ba4fa0a7befb78bdc",
+        "android_client_info": {
+          "package_name": "com.example.health_first"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQmnpGJivDF0T9BH4ucRM3Z9ROr4qIWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
