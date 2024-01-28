@@ -1,55 +1,114 @@
-<<<<<<< HEAD
-# health_first
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # MediFirst
-# Project Name
 
-Brief description or tagline for your project.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Overview
 
-Provide a brief overview of your project. Describe its purpose, main features, and any other relevant information.
+MediFirst is an all-in-one health management application designed to simplify and enhance your healthcare experience. With seamless integration with Firebase, our app provides a secure and efficient platform for users to manage their health-related activities, appointments, and emergencies.
+
+
+
+
 
 ## Features
 
-List the key features of your project. You can use bullet points or a numbered list for clarity.
+0. Light/dark mode toggle
 
-- Feature 1
-- Feature 2
-- ...
+1. Authentication (Login & Signup)
+Securely access your personalized health profile by logging in with your credentials. New users can easily sign up to create an account.
+
+2. Doctor Appointment
+Schedule and manage appointments with MediFirst professionals effortlessly. Browse through a list of qualified doctors, select your preferred time slot, and receive timely reminders.
+
+3. Ambulance Booking
+In case of emergencies, quickly book an ambulance directly through the app. Provide your location, and our integrated service ensures a prompt response to your medical needs.
+
+4. Upcoming Appointments
+Stay organized with a dedicated section for upcoming appointments. Receive notifications, view details, and make any necessary preparations for your medical visits.
+
+5. Past Appointments
+Access a comprehensive history of your past appointments, including details of consultations, prescribed medications, and any post-appointment instructions.
+
+6. Firebase Integration
+Our app leverages the power of Firebase for secure user authentication, real-time database updates, and efficient cloud storage. Your health data is always accessible and synchronized across devices.
+
+
+
+
+
+
+
+
+## How to get Started
+
+
+Create an Account:
+
+Sign up for a new account or log in if you already have one.
+
+Explore Features:
+
+Discover the various features available for managing your health and appointments.
+
+Schedule Appointments:
+
+Use the Doctor Appointment feature to schedule consultations with healthcare professionals.
+
+Book an Ambulance:
+
+In emergencies, utilize the Ambulance Booking feature for a quick and efficient response.
+
+MediFirst is committed to providing a user-friendly, secure, and efficient healthcare platform. Whether you're scheduling a routine check-up or need urgent medical assistance, HealthHub is here to make your health journey smoother.
 
 ## Installation
 
-Explain how users can install and set up your project. Include any dependencies that need to be installed and steps for configuration.
 
 ```bash
-# Example installation commands
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+installation commands
+https://github.com/AyushBilkhiwal/MediFirst.git
+cd MediFirst
 ./setup.sh
->>>>>>> fee6cdd94ab5cfc518986c5f708a3d1dfad39d69
+```
+
+
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+
+
+
+## Tech Stack
+
+
+
+**Technologies:** Flutter, Dart, FireBase,
+
+**Software:** Visual Studio, Android Studio,
+
+**dependencies:**
+  google_fonts: ^6.1.0
+  flutter_native_splash: ^2.3.9
+  get: ^4.6.6
+  flutter_otp_text_field: ^1.1.1
+  otp_text_field: ^1.1.3
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.16.0
+  google_sign_in: ^6.2.1
+  cupertino_icons: ^1.0.6
+  line_awesome_flutter: ^2.0.0
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+  font_awesome_flutter: ^10.7.0
+  cloud_firestore: ^4.14.0
+  velocity_x: ^4.1.2
+  table_calendar: ^3.0.9
+  geolocator: ^10.1.0
+
+## 🔗 Links
+https://github.com/AyushBilkhiwal/MediFirst
+https://www.linkedin.com/in/ayush-bilkhiwal-935672232/
+
+
+
