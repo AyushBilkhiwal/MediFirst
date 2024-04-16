@@ -168,14 +168,14 @@ cd MediFirst
   geolocator: ^10.1.0
 
 ## 🔗 Links
-Hariom Meena
-Linkedin: https://www.linkedin.com/in/hariom-meena-50b13a205/
-Github:  https://github.com/Hariommeena2000
-Ayush Bilkhiwal
+Hariom Meena<br>
+Linkedin: https://www.linkedin.com/in/hariom-meena-50b13a205/  <br>
+Github:  https://github.com/Hariommeena2000  <br>
+Ayush Bilkhiwal <br>
 
-Github: https://github.com/AyushBilkhiwal/MediFirst
+Github: https://github.com/AyushBilkhiwal/MediFirst <br>
 
-Linkedin: https://www.linkedin.com/in/ayush-bilkhiwal-935672232/
+Linkedin: https://www.linkedin.com/in/ayush-bilkhiwal-935672232/  <br>
 
 
 
